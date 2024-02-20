@@ -401,7 +401,7 @@ export const projects = [
     description:
       "Say Bye-Bye to the outdated version of Learning, Explore the Art of Visual Learning Experience with COOL Animations and Anecdotes.",
    image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "https://github.com/parulsurana/Portfolio/blob/main/src/images/Illitrate.png?raw=true",
     tags: ["React Router", "ReactJS", "FireBase"],
     category: "web app",
     github: "https://github.com/parulsurana/ILLITRATE",
@@ -471,7 +471,7 @@ export const projects = [
     description:
       "Generated Invoice using ReactJs",
       image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+      "https://github.com/parulsurana/Portfolio/blob/main/src/images/Invoice.png?raw=true",
     tags: ["React Js"],
     category: "web app",
     github: "https://github.com/parulsurana/InvoiceGenerator",
