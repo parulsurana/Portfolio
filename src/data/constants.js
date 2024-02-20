@@ -312,7 +312,7 @@ export const projects = [
     description:
       "• Developed a blog website using MERN stack to enable users to create, read, update, and delete blog posts • Implemented RESTful APIs for fetching and storing data from the MongoDB database • Integrated user authentication system using JSON Web Tokens (JWT) to enable secure login and logout.",
       image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://github.com/parulsurana/Portfolio/blob/main/src/images/Blog.png?raw=true",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/parulsurana/Write-It-Out ",
@@ -324,7 +324,7 @@ export const projects = [
     description:
       "The Indian Agricultural market does not have a clear pricing strategy for agricultural products. Farmers spend hours and days of hard effort in harvesting a crop to its yield. An inescapable monsoon season causes further damage to farmers' lives. After all this, farmers just have to sell their products to a mediator for a low price. LET’S AGRII is fully based on farmer’s needs and requirements, it fulfills all the basic needs of the farmers and also provides reasonable prices for their crops while still keeping the interface user friendly with next to zero training required.",
       image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://github.com/parulsurana/Portfolio/blob/main/src/images/LetsAgrii.png?raw=true",
     tags: [
       "React Js",
       "MongoDb",
@@ -441,7 +441,7 @@ export const projects = [
     description:
       "Developed an online classroom platform using React.js, Node.js, Express.js,and MongoDB with the tutor and the student panel for managing the Assignments, books, and  projects suggestions.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "https://github.com/parulsurana/Portfolio/blob/main/src/images/OnlineClassroom.png?raw=true",
       tags: [
         "React Js",
         "MongoDb",
@@ -497,7 +497,7 @@ export const projects = [
     description:
       "Mini mern-stack profile project.",
       image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
+      "https://github.com/parulsurana/Portfolio/blob/main/src/images/ProfilePage.png?raw=true",
       tags: [
         "React Js",
         "MongoDb",
