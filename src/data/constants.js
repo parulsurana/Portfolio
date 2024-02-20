@@ -362,7 +362,7 @@ export const projects = [
     description:
       "• Developed Full-stack websites using ReactJs, Firebase to increase the interaction of the older generation with technology. Used firebase authentication for User Identification • Implemented news feed feature using REST API (https://newsapi.org/) to show latest news headlines and dictionary feature by integrating REST API (https://dictionaryapi.dev/) using Axios, and have word query in 10+ languages.",
        image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://github.com/parulsurana/Portfolio/blob/main/public/LA.png?raw=true",
       tags: [
         "React Js",
         "MongoDb",
@@ -404,7 +404,7 @@ export const projects = [
       "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
     tags: ["React Router", "ReactJS", "FireBase"],
     category: "web app",
-    github: "ttps://github.com/parulsurana/ILLITRATE",
+    github: "https://github.com/parulsurana/ILLITRATE",
     webapp :"https://illitrate-d8949.web.app/",
     member: [
       {
