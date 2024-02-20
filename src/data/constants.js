@@ -479,15 +479,15 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
+    title: "Portfolio",
+    date: "Feb 2024",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      " My portfolio is a curated collection that reflects my diverse skills, experiences, and creative endeavors. Comprising a fusion of academic achievements, professional projects, and personal passions, it serves as a comprehensive showcase of my journey and capabilities. The carefully selected pieces within my portfolio highlight my proficiency in areas such as MERN stack technology, ehicih implies technical skills, Communication and event management skills, demonstrating a keen eye for detail, innovation, and problem-solving. From academic accomplishments to real-world applications, each entry is a testament to my dedication and growth as a multifaceted individual. Navigating through my portfolio provides a glimpse into the depth of my expertise, showcasing a commitment to continuous learning and adaptability in an ever-evolving landscape. As a living document, my portfolio evolves alongside my professional and personal development, making it a dynamic representation of my journey and aspirations.",
     image:
       "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+    tags: ["React Js", "Node JS", "Express.js", "Mongodb"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
+    github: "https://github.com/parulsurana/Portfolio",
     webapp: "https://rishav-react-todo.netlify.app/",
   },
   {
