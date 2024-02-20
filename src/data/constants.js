@@ -294,7 +294,7 @@ export const projects = [
     description:
       "• Designed and Developed a full-stack web application using MERN technology • Includes features - signup/login with password-protected JWT token authentication • A shopping cart for easy ordering, and a search system to find a particular food.",
       image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://github.com/parulsurana/Portfolio/blob/main/src/images/Gofood.png?raw=true",
     tags: [
       "React Js",
       "MongoDb",
