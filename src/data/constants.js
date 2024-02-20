@@ -318,6 +318,19 @@ export const projects = [
     github: "https://github.com/parulsurana/Write-It-Out ",
   },
   {
+    id: 5,
+    title: "Portfolio",
+    date: "Feb 2024",
+    description:
+      " My portfolio is a curated collection that reflects my diverse skills, experiences, and creative endeavors. Comprising a fusion of academic achievements, professional projects, and personal passions, it serves as a comprehensive showcase of my journey and capabilities. The carefully selected pieces within my portfolio highlight my proficiency in areas such as MERN stack technology, ehicih implies technical skills, Communication and event management skills, demonstrating a keen eye for detail, innovation, and problem-solving. From academic accomplishments to real-world applications, each entry is a testament to my dedication and growth as a multifaceted individual. Navigating through my portfolio provides a glimpse into the depth of my expertise, showcasing a commitment to continuous learning and adaptability in an ever-evolving landscape. As a living document, my portfolio evolves alongside my professional and personal development, making it a dynamic representation of my journey and aspirations.",
+    image:
+      "https://github.com/parulsurana/Portfolio/blob/main/src/images/Portfolio.png?raw=true",
+    tags: ["React Js", "Node JS", "Express.js", "Mongodb"],
+    category: "web app",
+    github: "https://github.com/parulsurana/Portfolio",
+    webapp: "https://rishav-react-todo.netlify.app/",
+  },
+  {
     id: 1,
     title: "Lets Agrii",
     date: "Nov 2021 - Nov 2021",
@@ -355,6 +368,7 @@ export const projects = [
     ],
 
   },
+  
   {
     id: 2,
     title: "TechnoGen",
@@ -477,19 +491,7 @@ export const projects = [
     github: "https://github.com/parulsurana/InvoiceGenerator",
     webapp: "parulsurana.github.io/InvoiceGenerator/",
   },
-  {
-    id: 5,
-    title: "Portfolio",
-    date: "Feb 2024",
-    description:
-      " My portfolio is a curated collection that reflects my diverse skills, experiences, and creative endeavors. Comprising a fusion of academic achievements, professional projects, and personal passions, it serves as a comprehensive showcase of my journey and capabilities. The carefully selected pieces within my portfolio highlight my proficiency in areas such as MERN stack technology, ehicih implies technical skills, Communication and event management skills, demonstrating a keen eye for detail, innovation, and problem-solving. From academic accomplishments to real-world applications, each entry is a testament to my dedication and growth as a multifaceted individual. Navigating through my portfolio provides a glimpse into the depth of my expertise, showcasing a commitment to continuous learning and adaptability in an ever-evolving landscape. As a living document, my portfolio evolves alongside my professional and personal development, making it a dynamic representation of my journey and aspirations.",
-    image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Node JS", "Express.js", "Mongodb"],
-    category: "web app",
-    github: "https://github.com/parulsurana/Portfolio",
-    webapp: "https://rishav-react-todo.netlify.app/",
-  },
+  
   {
     id: 6,
     title: "MernStack",
@@ -512,14 +514,50 @@ export const projects = [
 ];
 
 export const positions =[
-  // {
-  //   id: 7,
-  //   img: "https://media.licdn.com/dms/image/C510BAQEBxDFxLTHO2g/company-logo_200_200/0/1630596200400?e=1716422400&v=beta&t=gxmHyAo25exrsXB4xs0RDZ_9STUQkoipKiwldSLJH-E",
-  //   role: "Event Management Team",
-  //   company: "Rotaract Club of IIIT Gwalior",
-  //   date: "Aug 2019 - Jul 2021",
-  //   desc: "Being the part of Rotaract Club of IIIT Gwalior I took part in varoius events.As a volunteer I went to government schools for providing the stationary stuff's to the underprivileged students and it was a great experience. Being the part of EMT I organized an event with the team.",
-  //  },
+  {
+    id: 0,
+    img: "https://media.licdn.com/dms/image/C510BAQEBxDFxLTHO2g/company-logo_200_200/0/1630596200400?e=1716422400&v=beta&t=gxmHyAo25exrsXB4xs0RDZ_9STUQkoipKiwldSLJH-E",
+    role: "Event Management Team",
+    company: "Rotaract Club of IIIT Gwalior",
+    date: "Aug 2019 - Jul 2021",
+    desc: "Being the part of Rotaract Club of IIIT Gwalior I took part in varoius events.As a volunteer I went to government schools for providing the stationary stuff's to the underprivileged students and it was a great experience. Being the part of EMT I organized an event with the team.",
+   },
+
+   {
+    id: 0,
+    img: "https://media.licdn.com/dms/image/C4D0BAQG3d2fTWJyGLQ/company-logo_200_200/0/1630548839650?e=1716422400&v=beta&t=V-jOYrYolBkjODxZm8346QCOc-I9yXnlagujsjohxrU",
+    role: "Problem Setter",
+    company: "Abhigyan Abhikaushalam Students'​ Forum (AASF), IIIT Gwalior",
+    date: "",
+    desc: "Created competitive coding questions for the Programming Contest organized by AASF, IIIT Gwalior.",
+   },
+
+   {
+    id: 1,
+    img: "https://media.licdn.com/dms/image/C510BAQEBxDFxLTHO2g/company-logo_200_200/0/1630596200400?e=1716422400&v=beta&t=gxmHyAo25exrsXB4xs0RDZ_9STUQkoipKiwldSLJH-E",
+    role: "People Relations - Head",
+    company: "Rotaract Club of IIIT Gwalior",
+    date: "Aug 2021 - Jul 2022",
+    desc: "",
+   },
+
+   {
+    id: 2,
+    img: "https://media.licdn.com/dms/image/C510BAQGFn2ClDdRKYg/company-logo_200_200/0/1630619316129?e=1716422400&v=beta&t=fk68BXU4-ky03QMj97Mvr1XIoEn9dcHgp03UVoX98LI",
+    role: "Volunteer",
+    company: "Aurora, IIITM Gwalior",
+    date: "Nov 2019 - Feb 2020",
+    desc: "Being a part of this , I was in a calling team and my task is to convince the other people to join our fest.",
+   },
+
+   {
+    id: 3,
+    img: "https://media.licdn.com/dms/image/C510BAQGmDL2X9aOeBQ/company-logo_200_200/0/1630634321120/uthaan_iiitm_logo?e=1716422400&v=beta&t=lmCduoocV2CqFsxu7TDcauEKnbzhMeP-z4o9jCDUTs8",
+    role: "Reporting Team",
+    company: "Uthaan, IIITM Gwalior",
+    date: "Aug 2019 - Dec 2019",
+    desc: "Being the part of this club, I got opportunity to take the interview of some great person.",
+   },
 ];
 
 export const TimeLineData = [
