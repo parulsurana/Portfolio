@@ -130,7 +130,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_48d4jz8', 'template_qh34ngp', form.current, 'LGeQCUU6P5cUdRQ_E')
+    emailjs.sendForm('service_48d4jz8', 'template_stqksbb', form.current, 'bfJ_Spxh2WfbPKk7g')
       .then((result) => {
         setOpen(true);
         form.current.reset();
@@ -142,7 +142,7 @@ const Contact = () => {
 
 
   return (
-    <Container>
+    <Container id='contact'>
       <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
@@ -154,14 +154,15 @@ const Contact = () => {
           <ContactInputMessage placeholder="Message" rows="4" name="message" />
           <ContactButton type="submit" value="Send" />
         </ContactForm>
-        <Snackbar
+        
+      </Wrapper>
+      <Snackbar
           open={open}
           autoHideDuration={6000}
           onClose={()=>setOpen(false)}
           message="Email sent successfully!"
           severity="success"
         />
-      </Wrapper>
     </Container>
   )
 }
